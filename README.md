@@ -3,7 +3,7 @@
 <p>
 Diffuse computes a simple (Lambertian) lighting model. The lighting on the surface decreases as the angle between it and the light decreases. The lighting depends only on this angle, and does not change as the camera. The output is either drawn to the screen or captured as a texture.
 </p>
-<img src="github.com/sukrubeyy/LightingShader/blob/main/Assets/Images/Diffuse.gif"/>
+<img src="https://github.com/sukrubeyy/LightingShader/blob/main/Assets/Images/Diffuse.gif"/>
 <pre>
 <code>
 Shader "Unlit/DiffuseShader"
@@ -59,7 +59,7 @@ Specular computes the same simple (Lambertian) lighting as Diffuse, plus a viewe
 </p>
 <ul>
 <li>Phong</li>
-<img src="github.com/sukrubeyy/LightingShader/blob/main/Assets/Images/Phong.gif"/>
+<img src="https://github.com/sukrubeyy/LightingShader/blob/main/Assets/Images/Phong.gif"/>
 <pre>
 <code>
 Shader "Unlit/Specular"
@@ -128,7 +128,7 @@ Shader "Unlit/Specular"
 </code>
 </pre>
 <li>Bling Phong + Attenuation </li>
-<img src="github.com/sukrubeyy/LightingShader/blob/main/Assets/Images/BlingPhong.gif"/>
+<img src="https://github.com/sukrubeyy/LightingShader/blob/main/Assets/Images/BlingPhong.gif"/>
 <pre>
 <code>
 Shader "Unlit/BlingPhongSpecular"
@@ -173,7 +173,7 @@ Shader "Unlit/BlingPhongSpecular"
 </pre>
 
 <li>Fresnel Effect</li>
-<img src="github.com/sukrubeyy/LightingShader/blob/main/Assets/Images/Fresnel.gif"/>
+<img src="https://github.com/sukrubeyy/LightingShader/blob/main/Assets/Images/Fresnel.gif"/>
 <pre>
 <code>
 Shader "Unlit/fresnelEffect"
